@@ -1,0 +1,22 @@
+{ "name": "mundane-mime-v1",
+  "version": "1.4.0",
+  "description": "Just an alias for the old v1.x.x \"mime\" package, the one that could still .load() Apache style MIME type files.",
+  "keywords": [ "mime" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/mundane-mime-v1-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/mundane-mime-v1-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/mundane-mime-v1-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+  "main": "v1.js",
+  "dependencies": { "mime": "^1.4.0" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
